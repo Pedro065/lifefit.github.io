@@ -43,7 +43,7 @@ function entrar(){
   })
    
   if(usuario.value == userValid.user && senha.value == userValid.senha){
-    window.location.href = '../menu/menu.html'
+    window.location.href = 'https://pedro065.github.io/lifefit.github.io/menu.html'
     
     let mathRandom = Math.random().toString(16).substr(2)
     let token = mathRandom + mathRandom
