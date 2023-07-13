@@ -108,7 +108,7 @@ function cadastrar(){
     msgError.innerHTML = ''
   
     setTimeout(()=>{
-        window.location.href = '../login/Login.html'
+        window.location.href = 'https://pedro065.github.io/lifefit.github.io/Login.html'
     }, 3000)
   
     
